@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Cross Dev Blog</title>
-        <link>https://curieldevthub.io/crossdev.net/</link>
+        <link>www.crossdev.net/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 22:55:11 -0500</lastBuildDate>
-            <atom:link href="https://curieldevthub.io/crossdev.net/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="www.crossdev.net/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Demo Post</title>
-    <link>https://curieldevthub.io/crossdev.net/posts/post/</link>
+    <link>www.crossdev.net/posts/post/</link>
     <pubDate>Mon, 08 Aug 2022 22:55:11 -0500</pubDate>
     <author>Author</author>
-    <guid>https://curieldevthub.io/crossdev.net/posts/post/</guid>
+    <guid>www.crossdev.net/posts/post/</guid>
     <description><![CDATA[This is some content
 public static void main(String[args]) { System.out.println(&#34;This is a print statement&#34;); } ]]></description>
 </item>
